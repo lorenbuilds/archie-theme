@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "/"
 languageCode: en-us
-title: LorenBuilds
-theme: archie
+title: "LorenBuilds"
+theme: "archie"
 params:
   customcss: ["css/code.css"]
