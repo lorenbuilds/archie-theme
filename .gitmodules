@@ -1,4 +1,3 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/lorenbuilds/archie-theme.git
-	branch = main
